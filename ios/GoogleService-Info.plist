@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>162594992583-sit1u6gigfo4d99gd1kfcb3fcq4taen0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.162594992583-sit1u6gigfo4d99gd1kfcb3fcq4taen0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA4omeuB3xMCbFmmLciBUJSE4Hvwwp-3Mw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>162594992583</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.KonnectBio1961</string>
+	<key>PROJECT_ID</key>
+	<string>konnectbio-7d312</string>
+	<key>STORAGE_BUCKET</key>
+	<string>konnectbio-7d312.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:162594992583:ios:51df9ff7bb7b7ad560e9e2</string>
+</dict>
+</plist>

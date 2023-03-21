@@ -1,0 +1,17 @@
+rootProject.name = 'KonnectBio'
+include ':react-native-create-thumbnail'
+project(':react-native-create-thumbnail').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-create-thumbnail/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
+
+
+include ':react-native-video'
+project(':react-native-video').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-video/android-exoplayer')
+include ':react-native-splash-screen'   
+project(':react-native-splash-screen').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-splash-screen/android')
+include ':react-native-vector-icons'
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')
+include ':react-native-push-notification'
+project(':react-native-push-notification').projectDir = file('../node_modules/react-native-push-notification/android')
+include ':react-native-loud-speaker'
+project(':react-native-loud-speaker').projectDir = new File(settingsDir, '../node_modules/react-native-loud-speaker/android')

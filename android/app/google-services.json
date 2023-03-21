@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162594992583",
+    "project_id": "konnectbio-7d312",
+    "storage_bucket": "konnectbio-7d312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162594992583:android:c655bd459910e74260e9e2",
+        "android_client_info": {
+          "package_name": "com.konnectbio1961"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162594992583-aq4uuopc3pqjc9mo8m3n88s77p1g40ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTlrclISnalpLJV5KXzlRzXEDNgSmVgaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162594992583-aq4uuopc3pqjc9mo8m3n88s77p1g40ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
